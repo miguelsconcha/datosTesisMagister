@@ -1,4 +1,5 @@
 **Inflación Chilena Unitaria post-era militar**
+
 Estos datos fueron extraídos de los Registros anuales de la Inflación Chilena, en el periodo de 1971 al 2021, https://datos.bancomundial.org/indicator/FP.CPI.TOTL.ZG?locations=CL.
 
 
